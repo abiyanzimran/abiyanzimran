@@ -1,5 +1,5 @@
 
-### Full-stack Developer · Indonesia
+### Full-stack Developer
 
 Building and operating production-ready web systems, from APIs and databases to modern interfaces and cloud infrastructure.
 
